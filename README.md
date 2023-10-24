@@ -19,7 +19,7 @@
 - **Syntax**: `<tag class="classname">content</tag>`
 - **CSS Selector**: To apply styles, use a period before the class name in your CSS file: 
   ```css
-  .classname { property: value; }
+  .classname { sweet: green; }
   ```
 
 ### CSS Specificity
